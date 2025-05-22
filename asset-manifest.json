@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scripter-anatoliy/todo-test.git/static/css/main.424f2fc7.css",
+    "main.js": "/scripter-anatoliy/todo-test.git/static/js/main.6cba965c.js",
+    "static/js/453.ffbcad76.chunk.js": "/scripter-anatoliy/todo-test.git/static/js/453.ffbcad76.chunk.js",
+    "index.html": "/scripter-anatoliy/todo-test.git/index.html",
+    "main.424f2fc7.css.map": "/scripter-anatoliy/todo-test.git/static/css/main.424f2fc7.css.map",
+    "main.6cba965c.js.map": "/scripter-anatoliy/todo-test.git/static/js/main.6cba965c.js.map",
+    "453.ffbcad76.chunk.js.map": "/scripter-anatoliy/todo-test.git/static/js/453.ffbcad76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424f2fc7.css",
+    "static/js/main.6cba965c.js"
+  ]
+}
