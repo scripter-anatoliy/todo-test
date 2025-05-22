@@ -1,0 +1,27 @@
+.filters-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px; 
+  padding: 0; 
+}
+
+.filters-container button {
+  margin: 0; 
+  padding: 3px 7px;
+  border: 1px solid transparent; 
+  border-radius: 3px;
+  background-color: white;
+  color: inherit;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: normal;
+}
+
+.filters-container button:hover {
+    border-color: rgba(175, 47, 47, 0.1); 
+}
+
+.filters-container button.selected {
+  border-color: rgba(175, 47, 47, 0.2);
+  font-weight: bold;
+} 
